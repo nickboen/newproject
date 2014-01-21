@@ -8,3 +8,4 @@
 7.  Kick the dog
 8.  Name kid Seth
 9.  Call him Sue
+10.  Edited this directly in direct github
